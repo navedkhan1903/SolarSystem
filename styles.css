@@ -1,0 +1,118 @@
+body {
+  background-image: url(stars.jpg);
+  background-size: 100%;
+  background-repeat: repeat-y;
+  overflow: hidden;
+}
+#sun {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  top: calc(50% - 40px);
+  left: calc(50% - 40px);
+}
+.planet {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+#mercury {
+  background-color: #c5c5c5;
+  top: calc(50% - 45px);
+  left: calc(50% - 45px);
+}
+#venus {
+  background-color: #f2af00;
+  top: calc(50% - 75px);
+  left: calc(50% - 75px);
+}
+#earth {
+  top: calc(50% - 115px);
+  left: calc(50% - 115px);
+  width: 35px;
+  height: 35px;
+}
+#mars {
+  top: calc(50% - 140px);
+  left: calc(50% - 140px);
+  width: 25px;
+  height: 25px;
+}
+#jupiter {
+  top: calc(50% - 180px);
+  left: calc(50% - 180px);
+  width: 50px;
+  height: 50px;
+}
+#saturn {
+  top: calc(50% - 200px);
+  left: calc(50% - 200px);
+  width: 30px;
+  height: 30px;
+}
+#uranus {
+  background-color: #00c1ff;
+  top: calc(50% - 225px);
+  left: calc(50% - 225px);
+}
+#neptune {
+  top: calc(50% - 260px);
+  left: calc(50% - 260px);
+  width: 25px;
+  height: 25px;
+}
+.rings {
+  position: absolute;
+  border: 1.5px solid #333333;
+  border-radius: 500px;
+}
+#mercury_rings {
+  height: 100px;
+  width: 100px;
+  top: calc(50% - 50px);
+  left: calc(50% - 50px);
+}
+#venus_rings {
+  height: 180px;
+  width: 180px;
+  top: calc(50% - 90px);
+  left: calc(50% - 90px);
+}
+#earth_rings {
+  height: 275px;
+  width: 275px;
+  top: calc(50% - 140px);
+  left: calc(50% - 140px);
+}
+#mars_rings {
+  height: 355px;
+  width: 355px;
+  top: calc(50% - 180px);
+  left: calc(50% - 180px);
+}
+#jupiter_rings {
+  height: 435px;
+  width: 435px;
+  top: calc(50% - 220px);
+  left: calc(50% - 220px);
+}
+#saturn_rings {
+  height: 515px;
+  width: 515px;
+  top: calc(50% - 260px);
+  left: calc(50% - 260px);
+}
+#uranus_rings {
+  height: 605px;
+  width: 605px;
+  top: calc(50% - 305px);
+  left: calc(50% - 305px);
+}
+#neptune_rings {
+  height: 697px;
+  width: 697px;
+  top: calc(50% - 350px);
+  left: calc(50% - 350px);
+}
