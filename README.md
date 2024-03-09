@@ -19,6 +19,12 @@ https://solarsystem-animated.netlify.app/
 - GSAP
 - LottieFiles
 
+**Version Control & Deployment:**
+
+- Git
+- GitHub
+- Netlify
+
 ## Feedback
 
 If you have any feedback, please reach out to me at navedkhan19032002@gmail.com.
