@@ -25,6 +25,10 @@ https://solarsystem-animated.netlify.app/
 - GitHub
 - Netlify
 
+## Screenshot
+
+[![Screenshot-257.png](https://i.postimg.cc/cHzsVMc3/Screenshot-257.png)](https://postimg.cc/WFMLZZCp)
+
 ## Feedback
 
 If you have any feedback, please reach out to me at navedkhan19032002@gmail.com.
